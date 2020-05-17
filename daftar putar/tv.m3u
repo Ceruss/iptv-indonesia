@@ -3,8 +3,8 @@
 https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-992xs2cia3c/XsFhEkgEFpI/AAAAAAAAAx4/YCIHYgEjhtgradTPUA2auCueb0M43Bq1ACLcBGAsYHQ/s1600/images%2B%25284%2529.jpeg" group-title="Religious",TV One
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",Ahsan TV
-http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-RWQxsexP76c/XrloJRCjNaI/AAAAAAAAAwI/qVRFTWpsjF8CQ3BOryVFl3zUjSHv5IJYwCLcBGAsYHQ/s1600/index.png" group-title="Religious",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/1/1f/Antv_logo_%282017%29.svg/489px-Antv_logo_%282017%29.svg.png" group-title="Entertainment",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/02/cropped-Ninmedia-Edit-183x42.png" group-title="Local",AREK TV SURABAYA
