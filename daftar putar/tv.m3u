@@ -18,11 +18,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-V2IPCTVAG-U/Xrlph15iIFI/AAAAAAAAAwg/_eAiLeuoTqEOkCnf0y4aEIGInBIn-D0zwCLcBGAsYHQ/s1600/mnctv.jpg" group-title="",MNCTV
 http://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-MMxw2DorzVg/XrlpEDkYBsI/AAAAAAAAAwY/DFALf_2VwfA-KEjmgARtewTF_RDx7DPugCLcBGAsYHQ/s1600/rcti.jpg" group-title="News",RCTI
-https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
+http://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-oUupr5bWMfQ/Xrlp2ln3CwI/AAAAAAAAAwk/hkCba8fehywr8NZNOOuoVr2M4erEnwhQgCLcBGAsYHQ/s1600/sctv.jpg.webp" group-title="News",SCTV
+http://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
 
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",NET. TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",NET. TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
