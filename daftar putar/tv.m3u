@@ -9,12 +9,10 @@ http://210.210.155.35/qwr9ew/s/s105/01.m3u8
 http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-Q0aQ51pr-C8/XsHgFzkNa4I/AAAAAAAAAyM/FXToCtYGDDs4QY1covE8RvqZ9Blaylg6gCLcBGAsYHQ/s1600/indesx.png" group-title="News",iNews
 http://linier3.rctiplus.id/live/eds/iNews_Logo/sa_hls/iNews_Logo-avc1_2000000=1.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-4rOskV7fTdE/XsHjUZjWmQI/AAAAAAAAAyY/eklGFqpkCR4G1mJKJ-hr5keUtiRv0-Z2ACLcBGAsYHQ/s1600/net-tv.png" group-title="",NET. TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",NET. TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-VlHakudJx-w/XsHkCJIIFWI/AAAAAAAAAyk/a-zE62S0mkgGwjcrOT1AUjHfXwONVMH5ACLcBGAsYHQ/s1600/global-tv.jpg" group-title="",GTV
+http://linier3.rctiplus.id/live/eds/GTV_Logo/sa_hls/GTV_Logo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",NET. TV
 http://210.210.155.35/qwr9ew/s/s08/01.m3u8
