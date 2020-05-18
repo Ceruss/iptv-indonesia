@@ -21,11 +21,9 @@ http://linier3.rctiplus.id/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo.m3u8
 http://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-oUupr5bWMfQ/Xrlp2ln3CwI/AAAAAAAAAwk/hkCba8fehywr8NZNOOuoVr2M4erEnwhQgCLcBGAsYHQ/s1600/sctv.jpg.webp" group-title="News",SCTV
 http://cdn-livetv5.metube.id/hls/sctv_480/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1589780541~acl=/hls-p/ingest_205_*/*~hmac=238420a22741ac82b3282695dff6e002e5f2388d4be6533ad6d51c013661fea6/hls-p/ingest_205_720p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-3V0Pmh57XVs/XsHo6Blu-II/AAAAAAAAAyw/I6YUhXTbRRAGdZgy0iiIu__WpSlWlSpkACLcBGAsYHQ/s1600/indosiar-721326.jpg.webp" group-title="",Indosiar
+http://etslive-2-vidio-com.akamaized.net/exp=1589780541~acl=/hls-p/ingest_205_*/*~hmac=238420a22741ac82b3282695dff6e002e5f2388d4be6533ad6d51c013661fea6/hls-p/ingest_205_720p/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",NET. TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
+https://210.210.155.35/qwr9ew/s/s08/01.m3u8
