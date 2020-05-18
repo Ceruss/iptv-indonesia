@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-_QjmawCGc1o/XsHfzFXCG6I/AAAAAAAAAyE/SuhJ3EH2R-YXp1gQa_hPt0jIftEuvAKjQCLcBGAsYHQ/s1600/tvri.png.webp" group-title="News",TVRI
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-KAA-Lj-kYwc/XsFgsQpIqpI/AAAAAAAAAxw/ZCWKCfduoZcjeVfoWUKbj1nZfsvtT1g2ACLcBGAsYHQ/s1600/images%2B%25283%2529.jpeg" group-title="Religious",TRANS 7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-KAA-Lj-kYwc/XsFgsQpIqpI/AAAAAAAAAxw/ZCWKCfduoZcjeVfoWUKbj1nZfsvtT1g2ACLcBGAsYHQ/s1600/images%2B%25283%2529.jpeg" group-title="",TRANS 7
 http://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-992xs2cia3c/XsFhEkgEFpI/AAAAAAAAAx4/YCIHYgEjhtgradTPUA2auCueb0M43Bq1ACLcBGAsYHQ/s1600/images%2B%25284%2529.jpeg" group-title="",TV One
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-992xs2cia3c/XsFhEkgEFpI/AAAAAAAAAx4/YCIHYgEjhtgradTPUA2auCueb0M43Bq1ACLcBGAsYHQ/s1600/images%2B%25284%2529.jpeg" group-title="News",TV One
 http://210.210.155.35/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-RWQxsexP76c/XrloJRCjNaI/AAAAAAAAAwI/qVRFTWpsjF8CQ3BOryVFl3zUjSHv5IJYwCLcBGAsYHQ/s1600/index.png" group-title="Religious",TRANS TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="https://1.bp.blogspot.com/-RWQxsexP76c/XrloJRCjNaI/AAAAAAAAAwI/qVRFTWpsjF8CQ3BOryVFl3zUjSHv5IJYwCLcBGAsYHQ/s1600/index.png" group-title="",TRANS TV
 http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="Religious",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" group-title="News",TVRI
 http://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
