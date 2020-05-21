@@ -4,10 +4,10 @@
 http://tinyurl.com/ya43smch
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",MNC
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+http://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", ANTV
-https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
+http://tinyurl.com/ybpwf99r
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA", SCTV
 https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_177560.m3u8?enc=CzJp5fPQrCzHCTbQgiA6DQ&exp=1587469270
