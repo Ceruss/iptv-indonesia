@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",RCTI
-https://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-MMxw2DorzVg/XrlpEDkYBsI/AAAAAAAAAwY/DFALf_2VwfA-KEjmgARtewTF_RDx7DPugCLcBGAsYHQ/s1600/rcti.jpg" group-title="INDONESIA",RCTI
+http://cdn-livetv5.metube.id/hls/rcti_480/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",MNC
-https://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-V2IPCTVAG-U/Xrlph15iIFI/AAAAAAAAAwg/_eAiLeuoTqEOkCnf0y4aEIGInBIn-D0zwCLcBGAsYHQ/s1600/mnctv.jpg" group-title="INDONESIA",MNC
+http://cdn-livetv5.metube.id/hls/mnctv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",ANTV
 https://vcdnjt.useetv.com:443/joss/15/antv/chunklist_w1093587531_b684100_sleng_177560.m3u8?enc=XfbC-Lmih8yA3SLw742zUw&exp=1586533597
@@ -15,26 +15,26 @@ https://vcdnjt.useetv.com:443/joss/15/sctv/chunklist_w457941769_b684100_sleng_17
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",INDOSIAR
 https://vcdnjt.useetv.com:443/joss/15/indosiar/chunklist_w216473056_b684100_sleng_177560.m3u8?enc=fNhkrkjP1SfsMprexUm1ZA&exp=1587469129
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",NET TV
-https://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-4rOskV7fTdE/XsHjUZjWmQI/AAAAAAAAAyY/eklGFqpkCR4G1mJKJ-hr5keUtiRv0-Z2ACLcBGAsYHQ/s1600/net-tv.png" group-title="INDONESIA",NET TV
+http://cdnbpp1.useetv.com/joss/15/net/chunklist_w1761005650_b894100_sleng_310393.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",GTV
 https://linier.akamaized.net:443/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KAA-Lj-kYwc/XsFgsQpIqpI/AAAAAAAAAxw/ZCWKCfduoZcjeVfoWUKbj1nZfsvtT1g2ACLcBGAsYHQ/s1600/images%2B%25283%2529.jpeg" group-title="INDONESIA",TRANS 7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",TV ONE
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-992xs2cia3c/XsFhEkgEFpI/AAAAAAAAAx4/YCIHYgEjhtgradTPUA2auCueb0M43Bq1ACLcBGAsYHQ/s1600/images%2B%25284%2529.jpeg" group-title="INDONESIA",TV ONE
 http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s105/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RWQxsexP76c/XrloJRCjNaI/AAAAAAAAAwI/qVRFTWpsjF8CQ3BOryVFl3zUjSHv5IJYwCLcBGAsYHQ/s1600/index.png" group-title="INDONESIA",TRANS TV
+http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",INEWS
-https://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q0aQ51pr-C8/XsHgFzkNa4I/AAAAAAAAAyM/FXToCtYGDDs4QY1covE8RvqZ9Blaylg6gCLcBGAsYHQ/s1600/indesx.png" group-title="INDONESIA",INEWS
+http://cdn-livetv6.metube.id/hls/inewstv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",RTV
-https://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
+http://cdnbpp1.useetv.com/joss/14/rtv/chunklist_w56964414_b684100_sleng_121748.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",BERITASATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b846000.m3u8
@@ -88,22 +88,22 @@ http://wowza58.indostreamserver.com:1935/tempotv/live/playlist.m3u8
 https://vcdnjt.useetv.com/joss/14/rrinet/chunklist_w201885848_b684100_sleng_121912.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",TV EDUKASI
-https://cdnkbl1.useetv.com/joss/14/tvedukasi/chunklist_w1106170680_b684100_sleng_122400.m3u8
+http://cdnkbl1.useetv.com/joss/14/tvedukasi/chunklist_w1106170680_b684100_sleng_122400.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",ELSINTA
 http://sg1.ciscossh.us8080.ok-dns.com/qwr9ew/s/s10/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",JAKTV
-https://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
+http://cdnkbl1.useetv.com/joss/14/jaktv/chunklist_w1342810570_b684100_sleng_122404.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",JITV
-https://cdnkbl1.useetv.com/joss/14/jitv/chunklist_w159766213_b684100_sleng_122270.m3u8
+http://cdnkbl1.useetv.com/joss/14/jitv/chunklist_w159766213_b684100_sleng_122270.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",DUNIA LAIN
-https://cdnkbl1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
+http://cdnkbl1.useetv.com/joss/14/dunialain/chunklist_w1968690711_b684100_sleng_53857.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",CITRA DRAMA
-https://cdnkbl1.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
+http://cdnkbl1.useetv.com/joss/14/cdrama/chunklist_w1896135155_b684100_sleng_7437.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",ANTARA
 https://edgejt6.useetv.com/joss/14/antara/chunklist_w1644761459_b684100_sleng_122661.m3u8
@@ -115,7 +115,7 @@ https://cdnkbl1.useetv.com/joss/14/idx/chunklist_w483148583_b684100_sleng_6127.m
 https://cdnkbl1.useetv.com/joss/14/newsasia/chunklist_w1644938297_b684100_sleng_53871.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="INDONESIA",INSERT
-https://cdnkbl1.useetv.com/joss/14/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
+http://cdnkbl1.useetv.com/joss/14/insert/chunklist_w1857284949_b684100_sleng_122439.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN",AHSAN TV
 http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
@@ -139,7 +139,7 @@ http://38.96.175.40:1935/liveTrans//channel2_800k/playlist.m3u8
 http://wz.insantv.net/group/ngrp:insantv_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN",Madu TV Tulungagung
-https://v3.siar.us/madutv/live/playlist.m3u8
+http://v3.siar.us/madutv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="RAMADHAN",NABAWI TV
 http://stream2.ninmedia.tv/nabawitv/nabawitv_360p/playlist.m3u8
@@ -157,7 +157,7 @@ https://vcdnjt.useetv.com:443/joss/14/animax/chunklist_w1311799834_b684100_sleng
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",BOING
-https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+http://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",DISNEY JUNIOR
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
@@ -166,13 +166,13 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 http://sg1.ciscossh.us8080.ok-dns.com/uq2663/h/h22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",HOREE
-https://cdnkbl1.useetv.com/joss/14/horee/chunklist_w1584998548_b684100_sleng_53758.m3u8
+http://cdnkbl1.useetv.com/joss/14/horee/chunklist_w1584998548_b684100_sleng_53758.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",DUNIA ANAK
 https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w873899480_b684100_sleng_54966.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",DUCK
-https://cdnjt22.useetv.com/joss/14/ducktv/chunklist_w833664660_b684100_sleng_7149.m3u8
+http://cdnjt22.useetv.com/joss/14/ducktv/chunklist_w833664660_b684100_sleng_7149.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",NICKELODEON
 https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w2020530064_b684100_sleng_80926.m3u8
@@ -187,16 +187,16 @@ https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1597850384_b684100_sl
 https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",Nick
-https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
+http://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",Rooster Teeth TV
-https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
+http://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",SAT 7 KIDS
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+http://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KIDS",LARVA TV
 http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
@@ -229,16 +229,16 @@ http://ws.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high
 http://ws.flv.nimo.tv/live/su1599512427565r2d969c0672b18115ac596b0bdea6e535_high.flv
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",AFN
-https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
+http://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b1344100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",NAT GEO
-https://cdnkbl1.useetv.com/joss/15/natgeo/chunklist_w1392773337_b894100_sleng_308170.m3u8
+http://cdnkbl1.useetv.com/joss/15/natgeo/chunklist_w1392773337_b894100_sleng_308170.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",NAT GEO WILD
-https://cdnkbl1.useetv.com/joss/15/natgeowild/chunklist_w834124031_b894100_sleng_308176.m3u8
+http://cdnkbl1.useetv.com/joss/15/natgeowild/chunklist_w834124031_b894100_sleng_308176.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="KNOWLEDGE",NAT GEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=DB6A54311D3D267C877A5894268561D2577EE4D3&profile=pass
@@ -259,7 +259,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b22
 http://stream2.ninmedia.tv:1935/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MUSIC",CITRA DANGDUT
-https://cdnkbl1.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
+http://cdnkbl1.useetv.com/joss/14/citradangdut/chunklist_w981377234_b684100_sleng_7391.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.mncupdate.com/wp-content/uploads/RCTI-plus-primary-logo.jpg" group-title="MUSIC",T-MUSIC
 https://vcdnjt.useetv.com:443/joss/14/tmusic/chunklist_w2083748760_b684100_sleng_177560.m3u8?enc=XzQZ-L2IHkOWiRSu7umjDw&exp=1587471890
